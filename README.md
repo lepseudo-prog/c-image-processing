@@ -2,7 +2,7 @@
 A command-line application written in C to perform image processing operations on BMP files.
 ---
 
-## ⚙️ Supported Operations
+## Supported Operations
 
 | # | Operation | Description |
 |---|------------|--------------|
@@ -49,4 +49,4 @@ Notes:
 
 - Designed for educational use and experimentation with basic image algorithms.
 
-- You can see some results in the 
+- You can see some results in the "image resultat" folder
